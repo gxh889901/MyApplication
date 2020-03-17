@@ -1,0 +1,2 @@
+include ':app', ':javalib', ':Kotlinlib'
+rootProject.name='My Application'
